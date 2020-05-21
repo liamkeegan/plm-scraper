@@ -18,8 +18,6 @@ import os
 import tempfile
 from datetime import datetime
 
-# Sets the Room ID in teams
-
 
 # Sets the Selenium driver options
 options = Options()
